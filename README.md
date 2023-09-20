@@ -8,17 +8,17 @@ Create a powerful secure password using Password-Gen tool. Help prevent a securi
 
 
 - A mixture of  uppercase, lowercase, digits and symbols. 
-charactercharacter e.g., p&B\%u
+- charactercharacter e.g., p&B\%u
 
 
 ## Usage/Examples
 
 ```javascript
 Input-:
-Length of password you want : 6
+Length of password you want : 7
 
 Output-:
-p&B%u
+<n|]^\J
 ```
 
 ## 🔗 Links
